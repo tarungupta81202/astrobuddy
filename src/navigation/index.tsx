@@ -16,7 +16,7 @@ import SearchScreen from "@screens/search/SearchScreen";
  * ? Local & Shared Imports
  */
 import { SCREENS } from "@shared-constants";
-import { DarkTheme, LightTheme, palette } from "@theme/themes";
+import { LightTheme, palette } from "@theme/themes";
 import LoginScreen from "@screens/login/LoginScreen";
 import OnboardingScreen from "@screens/obboarding/OnboardingScreen";
 
