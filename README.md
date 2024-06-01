@@ -1,16 +1,16 @@
 <img alt="React Native Typescript Boilerplate" src="assets/logo.png" width="1050"/>
 
-[![A lot of fundamental features with Typescript support React Native Boilerplate](https://img.shields.io/badge/-A%20lot%20of%20fundamental%20features%20with%20Typescript%20support%20React%20Native%20Boilerplate-orange?style=for-the-badge)](https://github.com/WrathChaos/react-native-typescript-boilerplate)
+[![A lot of fundamental features with Typescript support React Native Boilerplate](https://img.shields.io/badge/-A%20lot%20of%20fundamental%20features%20with%20Typescript%20support%20React%20Native%20Boilerplate-orange?style=for-the-badge)](https://github.com/WrathChaos/astro-buddy)
 
-[![npm version](https://img.shields.io/npm/v/react-native-typescript-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoder/react-native-typescript-boilerplate)
-[![npm](https://img.shields.io/npm/dt/react-native-typescript-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoder/react-native-typescript-boilerplate)
+[![npm version](https://img.shields.io/npm/v/astro-buddy.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoder/astro-buddy)
+[![npm](https://img.shields.io/npm/dt/astro-buddy.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoder/astro-buddy)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 
 <p align="center">
   <img alt="React Native Typescript Boilerplate"
-        src="assets/react-native-typescript-boilerplate.gif" height="650" width="325" />
+        src="assets/astro-buddy.gif" height="650" width="325" />
 </p>
 
 # 🥳 Version 4.0.0 is here 😍
@@ -79,7 +79,7 @@ We're proudly announce that `Version 4.0.0` is here!
 To create a new project using the barebone boilerplate:
 
 ```sh
-git clone https://github.com/WrathChaos/react-native-typescript-boilerplate.git my-app-name
+git clone https://github.com/WrathChaos/astro-buddy.git my-app-name
 ```
 
 # 🎯 Step By Step Guide
