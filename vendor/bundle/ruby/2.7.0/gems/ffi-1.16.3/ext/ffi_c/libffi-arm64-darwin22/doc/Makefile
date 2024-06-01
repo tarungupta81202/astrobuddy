@@ -13,7 +13,7 @@
 # PARTICULAR PURPOSE.
 
 
-VPATH = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/doc
+VPATH = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/doc
 am__is_gnu_make = { \
   if test -z '$(MAKELEVEL)'; then \
     false; \
@@ -203,15 +203,15 @@ am__uninstall_files_from_dir = { \
 am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)
 am__DIST_COMMON = $(srcdir)/Makefile.in mdate-sh texinfo.tex
 DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)
-ACLOCAL = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' aclocal-1.16
+ACLOCAL = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' aclocal-1.16
 AMTAR = $${TAR-tar}
 AM_DEFAULT_VERBOSITY = 1
 AM_LTLDFLAGS = 
 AM_RUNTESTFLAGS = 
 AR = ar
-AUTOCONF = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' autoconf
-AUTOHEADER = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' autoheader
-AUTOMAKE = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' automake-1.16
+AUTOCONF = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' autoconf
+AUTOHEADER = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' autoheader
+AUTOMAKE = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' automake-1.16
 AWK = awk
 CC = gcc
 CCAS = gcc
@@ -259,7 +259,7 @@ LN_S = ln -s
 LTLIBOBJS = 
 LT_SYS_LIBRARY_PATH = 
 MAINT = #
-MAKEINFO = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' makeinfo
+MAKEINFO = ${SHELL} '/Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/missing' makeinfo
 MANIFEST_TOOL = :
 MKDIR_P = /opt/homebrew/bin/gmkdir -p
 NM = nm
@@ -289,10 +289,10 @@ TARGET = AARCH64
 TARGETDIR = aarch64
 TARGET_OBJ =  src/aarch64/ffi.lo src/aarch64/sysv.lo
 VERSION = 3.4.4
-abs_builddir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi-arm64-darwin22/doc
-abs_srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/doc
-abs_top_builddir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi-arm64-darwin22
-abs_top_srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi
+abs_builddir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi-arm64-darwin22/doc
+abs_srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/doc
+abs_top_builddir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi-arm64-darwin22
+abs_top_srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi
 ac_ct_AR = ar
 ac_ct_CC = 
 ac_ct_CXX = g++
@@ -323,7 +323,7 @@ host_vendor = apple
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = ${SHELL} /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/install-sh
+install_sh = ${SHELL} /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/install-sh
 libdir = ${exec_prefix}/lib
 libexecdir = ${exec_prefix}/libexec
 localedir = ${datarootdir}/locale
@@ -338,7 +338,7 @@ psdir = ${docdir}
 runstatedir = ${localstatedir}/run
 sbindir = ${exec_prefix}/sbin
 sharedstatedir = ${prefix}/com
-srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/doc
+srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi/doc
 sys_symbol_underscore = yes
 sysconfdir = ${prefix}/etc
 target = aarch64-apple-darwin22
@@ -351,7 +351,7 @@ toolexecdir = ${libdir}/gcc-lib/$(target_alias)
 toolexeclibdir = ${libdir}
 top_build_prefix = ../
 top_builddir = ..
-top_srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/rntypescriptBoilerplate/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi
+top_srcdir = /Users/kuray/Coursion/OpenSource/react-native-typescript-boilerplate/AstroBuddy/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c/libffi
 info_TEXINFOS = libffi.texi
 all: all-am
 
